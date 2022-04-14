@@ -1,0 +1,27 @@
+{
+    'address':
+    {
+        'street':'jalan sakura',
+        'province':'banten',
+        'city':'tangerang',
+    },
+    'person':
+    {
+        'name':'john',
+        'email':'john@doe.com'
+ 
+‘firends’: 
+ 
+{ 
+ 
+ 
+‘name’:”Tom” 
+ 
+ 
+‘age’:10 
+ 
+} 
+    },
+    'userType':'admin',
+    'accessLevel':'QA'
+}
